@@ -34,12 +34,12 @@
                                 <span class="nav-link-text">User Details</span>
                             </a>
                         </li>
-                         <!-- <li class="nav-item">
+                         <li class="nav-item">
                             <a class="nav-link" href="pricee.php">
                                 <i class="ion ion-ios-keypad"></i>
                                 <span class="nav-link-text">Price Plan</span>
                             </a>
-                        </li> -->
+                        </li>
                         
                    
                        <?php if(isset($_SESSION['Rule'])) { ?>

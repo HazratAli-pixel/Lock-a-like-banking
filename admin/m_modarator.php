@@ -101,7 +101,7 @@ include_once('includes/sidebar.php');
                                                     <th>Name</th>
                                                     <th>Phone Number</th>
                                                     <th>Account Limit</th>
-                                                    <th>Create AC</th>
+                                                    <th>Created AC</th>
                                                     <th>Status</th>
                                                     <th>Action</th>
                                                     
