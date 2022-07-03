@@ -23,3 +23,12 @@ catch (PDOException $e)
 exit("Error: " . $e->getMessage());
 }
 ?>
+
+
+<?php
+$domain = "localhost/url/";
+$con3=mysqli_connect("localhost", "root", "", "imageupload");
+if(mysqli_connect_errno()){
+echo "Connection Fail".mysqli_connect_error();
+}
+?>

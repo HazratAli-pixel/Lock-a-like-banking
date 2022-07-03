@@ -74,13 +74,7 @@
                             </ul>
                         </li>
                       <?php }?>
-                        </ul>
-                 
-                      
-                      
-                      
-                  
-                
+                        </ul>              
                     <hr class="nav-separator">
             
                 </div>
